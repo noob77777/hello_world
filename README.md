@@ -1,2 +1,2 @@
 # hello_world
-I have no idea
+I have some idea
